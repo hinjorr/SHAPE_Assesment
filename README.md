@@ -1,7 +1,7 @@
 
 # SignUp form assesment
 
-Just created a simple sign up from using ajax, jquery validations, .NET core and SQL server.
+Just created a simple sign up form using ajax, jquery validations, .NET core and SQL server.
 
 KINDLY RESTORE PACKAGES BEFORE RUNNING THE PROJECT
 ## Screenshots
