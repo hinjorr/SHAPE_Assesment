@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SHAPE Assesment</title>
+    <link href="~/Lib/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Lib/jquery-3.6.3.min.js"></script>
+    <script src="~/Lib/jquery.validate.min.js"></script>
+<style>
+    .error{
+        color:red
+    }
+</style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" href="#">SHAPE Assesment</a>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/Lib/bootstrap.min.js"></script>
+</body>
+</html>
