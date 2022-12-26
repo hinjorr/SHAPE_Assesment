@@ -6,6 +6,6 @@ Just created a simple sign up form using ajax, jquery validations, .NET core and
 KINDLY RESTORE PACKAGES BEFORE RUNNING THE PROJECT
 ## Screenshots
 
-![App Screenshot](https://www.dropbox.com/s/za295cyh1di5o4b/1.png?dl=0)
-![App Screenshot](https://www.dropbox.com/s/dbfbu3veb6ss2t8/2.png?dl=0)
-![App Screenshot](https://www.dropbox.com/s/xq9fxp99k5vuaqp/3.png?dl=0)
+![1](https://user-images.githubusercontent.com/43087925/209500030-d195260e-87ab-4017-a143-1bc641e50a57.png)
+![2](https://user-images.githubusercontent.com/43087925/209500124-e82f913e-8b24-4ed7-a0d4-a644f8ebe05e.png)
+![3](https://user-images.githubusercontent.com/43087925/209500186-07ef44b4-8f95-457d-a5b0-df00e6b89fa6.png)
